@@ -1,6 +1,6 @@
 # Projector Finder
 ## Description
-Use this script to generate the data for [BENQ Find Your Perfect Project website](https://www.benq.com/en-us/projector/find-your-perfect-projector.html).  
+Use this script to generate the golf projector data for [Find Your Perfect Project website](https://www.benq.com/en-us/projector/find-your-perfect-projector.html).  
 
 <img src="docs/projector-finder-website.png" alt="projector-finder-website" width="600"/>
 
